@@ -19,6 +19,27 @@ Minha trajetória prévia em Qualidade de Software (QA) e Suporte Técnico em am
 
 ### Competências Técnicas
 
+<p align="left">
+  <!-- Front-end -->
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white" alt="React" height="26" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="26" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="26" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="26" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=flat&logo=vite&logoColor=white" alt="Vite" height="26" />
+  <br />
+  <!-- Back-end & Dados -->
+  <img src="https://img.shields.io/badge/C%23-111111?style=flat&logo=csharp&logoColor=white" alt="C#" height="26" />
+  <img src="https://img.shields.io/badge/.NET_Core-111111?style=flat&logo=dotnet&logoColor=white" alt=".NET Core" height="26" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="26" />
+  <img src="https://img.shields.io/badge/SQL_Server-111111?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="26" />
+  <br />
+  <!-- Ferramentas & Engenharia -->
+  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" alt="Git" height="26" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" alt="GitHub" height="26" />
+  <img src="https://img.shields.io/badge/Postman-111111?style=flat&logo=postman&logoColor=white" alt="Postman" height="26" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=white" alt="Docker" height="26" />
+</p>
+
 ```
 Linguagens & Front-end │ React · TypeScript · JavaScript (ES6+) · Tailwind CSS
 Back-end & Dados       │ C# · .NET Core · APIs REST · SQL Server / PostgreSQL
@@ -56,15 +77,6 @@ Orquestrador em Python que simula um squad ágil de engenharia de software (PO, 
 - **React com TypeScript:** Alura (Hooks, Context API tipados, escalabilidade e arquitetura)
 - **TypeScript Avançado:** Alura (Orientação a Objetos, paradigma funcional e tipagem defensiva)
 - **Fundamentos de C# e .NET:** Alura (POO, lógica estruturada e desenvolvimento back-end)
-
----
-
-### Estatísticas de Desenvolvimento
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielLudu&show_icons=true&theme=dark&bg_color=0c0d10&title_color=ffffff&text_color=9ca3af&icon_color=d4d4d8&border_color=262626&hide_border=false" alt="Estatísticas do GitHub" height="145" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLudu&layout=compact&theme=dark&bg_color=0c0d10&title_color=ffffff&text_color=9ca3af&border_color=262626&hide_border=false" alt="Linguagens mais utilizadas" height="145" />
-</p>
 
 ---
 
